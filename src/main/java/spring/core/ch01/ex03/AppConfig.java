@@ -8,7 +8,7 @@ import spring.core.ch01.ex01.Rifle;
 import spring.core.ch01.ex02.Shooter;
 
 @Configuration
-public class Appconfig {
+public class AppConfig {
 	@Bean
 	public Pistol pistol() {
 		return new Pistol();

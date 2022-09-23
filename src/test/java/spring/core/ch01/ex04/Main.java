@@ -1,4 +1,4 @@
-package spring.core.ch01.ex03;
+package spring.core.ch01.ex04;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
