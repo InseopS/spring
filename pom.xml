@@ -24,5 +24,10 @@
 			<scope>provided</scope>
 			<!-- provided는 war 파일에 포함시키지 않는다. -->
 		</dependency>
+		<dependency>
+			<groupId>org.aspectj</groupId>
+			<artifactId>aspectjweaver</artifactId>
+			<version>1.9.9.1</version>
+		</dependency>		
 	</dependencies>
 </project>
